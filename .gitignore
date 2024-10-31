@@ -1,0 +1,25 @@
+# GIT
+!.gitignore
+!README.md
+
+# vscode generation
+/.vscode/
+/.settings/
+
+# clion generation
+/.idea/
+
+# CMAKE generation
+cmake_install.cmake
+build.ninja
+CMakeCache.txt
+/build/
+CMakeFiles/
+
+# CLT files
+compile_commands.json
+
+# IDE Generation
+Debug/
+Release/
+/settings/
